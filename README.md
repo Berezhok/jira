@@ -5,4 +5,4 @@
 ### Хотите продлевайте, хотите нет) мне уже без разницы.
 # ![](https://github.com/Berezhok/jira/blob/main/img/work.png)
 ### Сделал вроде проект, какой-то workflow сделал, но он не хочет публиковаться какая-то ошибка, всегда "You cannot change the association between step '3' and status 'Done'."
-### 
+### SDf
